@@ -1,0 +1,14 @@
+body {
+    color: white;
+  }
+nav {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: rgb(255, 0, 0);
+  }
